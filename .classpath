@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="Kinect/native libraries"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="native libraries/core.jar"/>
+	<classpathentry kind="lib" path="native libraries/SimpleOpenNI.jar"/>
+	<classpathentry kind="lib" path="native libraries/jl1.0.jar"/>
+	<classpathentry kind="lib" path="native libraries/jsminim.jar"/>
+	<classpathentry kind="lib" path="native libraries/minim-spi.jar"/>
+	<classpathentry kind="lib" path="native libraries/minim.jar"/>
+	<classpathentry kind="lib" path="native libraries/mp3spi1.9.4.jar"/>
+	<classpathentry kind="lib" path="native libraries/tritonus_aos.jar"/>
+	<classpathentry kind="lib" path="native libraries/tritonus_share.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
